@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>resource/image/1.jpg</file>
+        <file>resource/image/2.jpg</file>
+        <file>resource/image/3.jpg</file>
+        <file>resource/image/3_1.jpg</file>
+        <file>resource/image/3_2.jpg</file>
+        <file>resource/image/cards.jpg</file>
+        <file>resource/image/img1.jpg</file>
+        <file>resource/image/img2.jpg</file>
+        <file>resource/image/lambo.png</file>
+        <file>resource/image/paper.jpg</file>
+        <file>resource/image/pos1.jpg</file>
+        <file>resource/image/pos2.jpg</file>
+        <file>resource/image/pos11.jpg</file>
+        <file>resource/image/pos12.jpg</file>
+        <file>resource/image/pos22.jpg</file>
+        <file>resource/image/shapes.png</file>
+        <file>resource/image/test.png</file>
+        <file>resource/image/test_video.mp4</file>
+        <file>resource/qss/title.css</file>
+        <file>resource/image/bk.png</file>
+        <file>resource/image/back.jpg</file>
+        <file>resource/image/bk_1.png</file>
+        <file>resource/image/time.jpg</file>
+        <file>resource/config/algorithm_version.ini</file>
+        <file>resource/image/bk1.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resource/config/algorithm_version.ini</file>
+    </qresource>
+</RCC>

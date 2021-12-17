@@ -1,0 +1,52 @@
+#ui_login_title_widget,
+#ui_login_widget{
+    /*background-color: rgba(1,12,29,66);*/
+    min-height:80px;
+    border:none;
+    margin:0;
+}
+
+#ui_login_title_lab,
+#ui_register_title_lab,
+#ui_register_username_lab,
+#ui_register_passwd_lab,
+#ui_register_curpasswd_lab,
+#ui_change_passwd_title_lab,
+#ui_change_passwd_username_lab,
+#ui_change_passwd_newpwd_lab,
+#ui_change_passwd_urpwd_lab,
+#mainWindow_title_lab,
+#mainWindow_clientnum_lab,
+#mainWindow_cameranum_lab,
+#mainWindow_port_lab,
+#mainWindow_userrole_lab,
+#ui_algorithm_setting_title_lab,
+#ui_system_setting_title_lab,
+#ui_system_setting_clientname_lab,
+#ui_system_setting_cameraname_lab,
+#ui_log_show_event_type_lab,
+#ui_log_show_start_time_lab,
+#ui_log_show_end_time_lab,
+#ui_imgcap_title_lab,
+#ui_imgcap_clientname_lab,
+#ui_imgcap_cameraname_lab,
+#ui_imgcap_show_lab,
+#ui_imgcap_log_title_lab,
+#ui_imgcap_log_start_time_lab,
+#ui_imgcap_log_end_time_lab
+{
+   font-size:20px;
+   color:white;
+}
+
+#ui_log_show_title_lab,
+#ui_log_show_event_type_lab,
+#ui_log_show_start_time_lab,
+#ui_log_show_end_time_lab,
+#ui_login_username_lab,
+#ui_login_passwd_lab,
+#mainWindow_savepath_lab
+{
+font-size:20px;
+color:white;
+}
